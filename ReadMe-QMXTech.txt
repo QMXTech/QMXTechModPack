@@ -68,7 +68,7 @@
 
     Code Chicken Core, Chicken Chunks, Ender Storage, Not Enough Items, and WR-CBE
     ==============================================================================
-    Version(s) : 1.0.4.29, 1.3.4.14, 1.4.5.26, 1.0.3.72, and 1.4.1.9
+    Version(s) : 1.0.4.29, 1.3.4.14, 1.4.5.26, 1.0.3.73, and 1.4.1.9
     Author(s) : Chicken-Bones
     URL : http://goo.gl/YxIT1c
 
@@ -86,7 +86,7 @@
 
     Compact Machines
     ================
-    Version(s) : 1.12-QMX
+    Version(s) : 1.13
     Author(s) : Davenonymous
     URL : http://goo.gl/xZbdcc
 
@@ -104,7 +104,7 @@
 
     EnderIO
     =======
-    Version(s) : 2.2.2.288
+    Version(s) : 2.2.2.289
     Author(s) : CrazyPants
     URL : http://www.enderio.com/
 
@@ -122,7 +122,7 @@
 
     Extra Cells
     ===========
-    Version(s) : 2.1.13B-DrummerMC
+    Version(s) : 2.1.14B-Null
     Author(s) : M3gaFr3ak
     URL : https://www.github.com/M3gaFr3ak/ExtraCells2/
 
@@ -170,7 +170,7 @@
 
     Micdoodle Core, GalactiCraft Core, and GalactiCraft Planets
     ===========================================================
-    Version(s) : 3.0.6.240
+    Version(s) : 3.0.6.245
     Author(s) : Micdoodle8
     URL : http://www.micdoodle8.com/
 
@@ -188,19 +188,19 @@
 
     Modular Force Field System and Resonant Induction
     =================================================
-    Version(s) : 4.1.0.51 and /* 0.3.4.248 */
+    Version(s) : 4.1.0.53 and /* 0.3.4.250 */
     Author(s) : Calclavia
     URL : http://www.calclavia.com/
 
     MrTJP Core and Project Red
     ==========================
-    Version(s) : 1.0.3.5 and 4.5.7.58
+    Version(s) : 1.0.3.5 and 4.5.8.59
     Author(s) : MrTJP and Chicken-Bones
     URL : http://www.projectredwiki.com/
 
     NEI Integration and Simply Jetpacks
     ===================================
-    Version(s) : 1.0.1 and 1.2.0
+    Version(s) : 1.0.2 and 1.3.0
     Author(s) : tonius11
     URL : http://goo.gl/Ok4ovD
 
@@ -218,7 +218,7 @@
 
     Planetguy Lib and Remain in Motion
     ==================================
-    Version(s) : 1.2 and 2.2.0
+    Version(s) : 1.3 and 2.2.0
     Author(s) : Planetguy
     URL : http://goo.gl/V9m073
 
@@ -248,7 +248,7 @@
 
     Resonant Engine
     ===============
-    Version(s) : 3.0.0.341
+    Version(s) : 3.0.0.348
     Author(s) : Universal Electricity Team
     URL : http://www.universalelectricity.com/
 
